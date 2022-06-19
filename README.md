@@ -14,6 +14,7 @@
 1.Aim
 2.Silent (not yet)
 3.Esp
+-Glow
 4.Miscs
 -No recoil
 -No ragdol
