@@ -34,6 +34,9 @@ and more will be in next update :)
 - END (PANIC KEY)
 - HOME (SAVE SETTINGS)
 ```
+## Videos
+
+- Link: https://youtu.be/l8YoWiLO1MA
 
 ## Photos
 ![obraz](https://user-images.githubusercontent.com/39122430/174461856-439eab50-3181-4d13-84f7-eb2de69bbc67.png)
