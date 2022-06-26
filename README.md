@@ -1,6 +1,6 @@
 # RogueCompany-v3 | edit Ricardo2
 
-- Updated 🟢 19.06.2022
+- Updated 🟢 26.06.2022
 - Status 🟢 UNDETECTED
 
 ## Discord Support 
