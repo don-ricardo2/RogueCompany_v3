@@ -1,4 +1,4 @@
-# RogueCompany-v3 | edit Ricardo2
+# RogueCompany-v4.1 | edit Ricardo2
 
 - Updated 🟢 26.06.2022
 - Status 🟢 UNDETECTED
